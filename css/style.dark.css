@@ -463,7 +463,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 0;
 }
 code {
-  color: #e80c1c;
+  color: #fb7299;
   padding: 0 0.1875rem;
   margin: 0 0.125rem;
   border-radius: 0.1875rem;
@@ -482,12 +482,12 @@ body {
   font-size: 100%;
 }
 a {
-  color: #e80c1c;
+  color: #fb7299;
 }
 a:hover {
   text-decoration: none;
   color: #171314;
-  background-color: #e80c1c;
+  background-color: #fb7299;
   transition: all 0.25s;
   cursor: pointer;
 }
@@ -518,7 +518,7 @@ h6 {
   -o-background-size: cover;
 }
 .site-header .page-title {
-  color: #e80c1c;
+  color: #fb7299;
   text-align: center;
   text-shadow: 1px 1px 2px #171314;
 }
@@ -610,7 +610,7 @@ h6 {
 .post-item-wrapper .date-and-category {
   font-size: 0.8125rem;
   text-align: center;
-  border: 1px solid #e80c1c;
+  border: 1px solid #fb7299;
   border-radius: 0.1875rem;
 }
 .post-item-wrapper .date-and-category .date,
@@ -618,15 +618,15 @@ h6 {
   padding: 0.125rem 0;
 }
 .post-item-wrapper .date-and-category .date {
-  color: #e80c1c;
+  color: #fb7299;
 }
 .post-item-wrapper .date-and-category .categories {
   color: #171314;
-  background-color: #e80c1c;
+  background-color: #fb7299;
 }
 .post-item-wrapper .date-and-category .categories > a {
   color: #171314;
-  background-color: #e80c1c;
+  background-color: #fb7299;
 }
 .post-item-wrapper .tags {
   overflow: hidden;
@@ -637,11 +637,11 @@ h6 {
   font-size: 0.8125rem;
   padding: 0 0.3125rem;
   text-align: center;
-  border: 1px solid #e80c1c;
+  border: 1px solid #fb7299;
   border-radius: 0.1875rem;
 }
 .post-item-wrapper .tags .untagged {
-  color: #e80c1c;
+  color: #fb7299;
 }
 @media only screen and (max-width: 768px) {
   .post-item-wrapper .date-and-category,
@@ -744,15 +744,15 @@ footer {
   display: inline-block;
 }
 .pagination > li > a {
-  color: #e80c1c;
+  color: #fb7299;
   background-color: #171314;
-  border: 1px solid #e80c1c;
+  border: 1px solid #fb7299;
   border-radius: 0.1875rem;
 }
 .pagination > li > a:hover {
   color: #171314;
-  background-color: #e80c1c;
-  border: 1px solid #e80c1c;
+  background-color: #fb7299;
+  border: 1px solid #fb7299;
 }
 .pagination > li > a span {
   display: inline-block;
